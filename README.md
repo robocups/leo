@@ -136,3 +136,25 @@ View all Leo contributors [here](./CONTRIBUTORS.md).
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](./LICENSE.md)
 
 <p align="right"><a href="#top">🔼 Back to top</a></p>
+
+# Force certain files to be LF
+*.leo text eol=lf
+*.out text eol=lf  
+*.rs text eol=lf
+*.in text eol=lf# Force certain files to be LF
+*.leo text eol=lf
+*.out text eol=lf  
+*.rs text eol=lf
+*.in text eol=lf# Force certain files to be LF
+*.leo text eol=lf
+*.out text eol=lf  
+*.rs text eol=lf
+*.in text eol=lf# Force certain files to be LF
+*.leo text eol=lf
+*.out text eol=lf  
+*.rs text eol=lf
+*.in text eol=lf# Force certain files to be LF
+*.leo text eol=lf
+*.out text eol=lf  
+*.rs text eol=lf
+*.in text eol=lf
